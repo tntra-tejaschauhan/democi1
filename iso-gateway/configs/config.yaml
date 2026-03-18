@@ -1,0 +1,4 @@
+port: 8080
+read_timeout_ms: 5000
+write_timeout_ms: 5000
+max_connections: 100
