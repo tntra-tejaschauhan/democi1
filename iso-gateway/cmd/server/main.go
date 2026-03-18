@@ -6,6 +6,5 @@ import (
 
 func main() {
 	fmt.Println("ISO Gateway starting...")
-	fmt.Println("ISO Gateway starting...")
 
 }
